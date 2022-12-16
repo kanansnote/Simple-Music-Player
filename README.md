@@ -1,3 +1,3 @@
 # Simple Music Player
 
-This project is intended to be an exercise for the purpose of developing music player software. Changes will be made in development process.
+This project is intended to be a practice set up for developing music player software. Changes can be made during the development process.
